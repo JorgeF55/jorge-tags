@@ -1,0 +1,11 @@
+../V1.ts
+../V1.ts
+../V1.ts
+../V1.ts
+../V1.ts
+.openapi-generator-ignore
+export.ts
+export/day.ts
+export/exportCustomJob.ts
+export/job.ts
+exportConfiguration.ts

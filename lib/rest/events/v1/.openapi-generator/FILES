@@ -1,0 +1,17 @@
+../V1.ts
+../V1.ts
+../V1.ts
+../V1.ts
+../V1.ts
+../V1.ts
+../V1.ts
+../V1.ts
+.openapi-generator-ignore
+eventType.ts
+schema.ts
+schema/schemaVersion.ts
+sink.ts
+sink/sinkTest.ts
+sink/sinkValidate.ts
+subscription.ts
+subscription/subscribedEvent.ts

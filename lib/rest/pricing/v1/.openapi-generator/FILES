@@ -1,0 +1,15 @@
+../V1.ts
+../V1.ts
+../V1.ts
+../V1.ts
+../V1.ts
+../V1.ts
+../V1.ts
+.openapi-generator-ignore
+messaging.ts
+messaging/country.ts
+phoneNumber.ts
+phoneNumber/country.ts
+voice.ts
+voice/country.ts
+voice/number.ts

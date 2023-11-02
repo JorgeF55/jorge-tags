@@ -1,0 +1,15 @@
+../V1.ts
+../V1.ts
+../V1.ts
+../V1.ts
+../V1.ts
+../V1.ts
+../V1.ts
+.openapi-generator-ignore
+service.ts
+service/phoneNumber.ts
+service/session.ts
+service/session/interaction.ts
+service/session/participant.ts
+service/session/participant/messageInteraction.ts
+service/shortCode.ts

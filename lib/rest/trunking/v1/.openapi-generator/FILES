@@ -1,0 +1,13 @@
+../V1.ts
+../V1.ts
+../V1.ts
+../V1.ts
+../V1.ts
+../V1.ts
+.openapi-generator-ignore
+trunk.ts
+trunk/credentialList.ts
+trunk/ipAccessControlList.ts
+trunk/originationUrl.ts
+trunk/phoneNumber.ts
+trunk/recording.ts

@@ -1,0 +1,11 @@
+../V2.ts
+../V2.ts
+../V2.ts
+../V2.ts
+../V2.ts
+.openapi-generator-ignore
+country.ts
+number.ts
+voice.ts
+voice/country.ts
+voice/number.ts
